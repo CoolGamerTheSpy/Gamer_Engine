@@ -1,6 +1,6 @@
-1.5.3;
-- Score Screen
-- Rewrote the entire hit ranking system
-- Fixed song names so they don't crash
+1.0.0;
+- Gamejolt
+- Mechanics Pre Made
+- Smooth health bar animation
 - New asset loading system
 - New Logo
