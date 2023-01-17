@@ -11,7 +11,7 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 ## Kade Engine
 **Kade Engine** is a mod for Friday Night Funkin', including a full engine rework, replays, and more.
 
-Links: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761) ⋅ [play in browser](https://funkin.puyo.xyz) ⋅ [latest stable release](https://github.com/KadeDev/Kade-Engine/releases/latest) ⋅ [latest development build (windows)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/branch/master/artifacts) ⋅ [latest development build (macOS)](https://ci.appveyor.com/project/KadeDev/kade-engine-macos/branch/master/artifacts) ⋅ [latest development build (linux)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/branch/master/artifacts)**
+Link: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761)**
 
 **REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
 
@@ -24,17 +24,14 @@ If you're looking for documentation, changelogs, or guides, you can find those o
 
 # Features
 
- - **Combines All**
-	 - Adds the good parts of all kade and pysch engine.
  - **More information during gameplay**
 	 - While you're playing, we show you information about how you're doing, such as your accuracy, combo break count, notes per second, and your grade/rating.
- - **Customizable keybinds**
-	 - Instead of being forced to use WASD and the arrow keys, you can customize the keybinds to any keys you want!
- - **Replays** (in beta)
-	 - Have you ever gotten a crazy score but didn't record? The replay system solves that: it automatically saves a "replay" of your gameplay every time you complete a song, which you can play back inside of the game. 
-	 - Replays just store information about what you're doing, they don't actually record the screen -- so they take up way less space on your disk than videos.
+ - **Pre-made Mechanics**
+	 - Mechanics have been made a fetaure in the charting menu.
+ - **Gamjolt API** (in beta)
+	 - Login to gamejolt and get tropheis.
  - **Audio offset**
-	 - If your headphones are delayed, you can set an offset in the options menu to line the game up with the delay and play with synced audio like intended.
+	 - Big Menu changes.
 
 # Credits
 ### Friday Night Funkin'
@@ -43,12 +40,11 @@ If you're looking for documentation, changelogs, or guides, you can find those o
  - [Kawai Sprite](https://twitter.com/kawaisprite) - Music
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
-### Kade Engine
-- [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
-- [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
+### Gamer Engine
+- [Cool_Gamer The Proggraming Spy](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
+- [AlexStep8](https://github.com/KadeDev/Kade-Engine/graphs/contributors) - Artis of the icon
 
 
 ### Shoutouts
-- [GWebDev](https://github.com/GrowtopiaFli) - Video Code
-- [Rozebud](https://github.com/ThatRozebudDude) - Ideas (that I stole)
-- [Puyo](https://github.com/daniel11420) - Setting up appveyor and a lot of other help
+- [KadeDeveloper](https://twitter.com/KadeDeveloper) - Creator of Kade Engine
+- [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
