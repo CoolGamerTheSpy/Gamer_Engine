@@ -1,5 +1,5 @@
 
-![Kade Engine logo](assets/preload/images/KadeEngineLogo.png)
+![Gamer Engine logo](GamerEngineLogo.png)
 
 # Friday Night Funkin': Gamer Engine
 ## Friday Night Funkin'
@@ -8,15 +8,15 @@
 Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](https://www.newgrounds.com/portal/view/770371) ⋅ [source code on GitHub](https://github.com/ninjamuffin99/Funkin)**
 > Uh oh! Your tryin to kiss ur hot girlfriend, but her MEAN and EVIL dad is trying to KILL you! He's an ex-rockstar, the only way to get to his heart? The power of music... 
 
-## Kade Engine
-**Kade Engine** is a mod for Friday Night Funkin', including a full engine rework, replays, and more.
+## Gamer Engine
+**Gamer Engine** is a mod for Friday Night Funkin', including a full engine rework, replays, and more.
 
 Link: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761)**
 
 **REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
 
-## Website ([KadeDev.github.io/kade-engine/](https://KadeDev.github.io/Kade-Engine/))
-If you're looking for documentation, changelogs, or guides, you can find those on the Kade Engine website.
+## Website ([CoolGamerTheSpy.github.io](https://CoolGamerTheSpy.github.io/))
+If you're looking for documentation, changelogs, or guides, you can find those on the Gamer Engine website.
 
 # Previews ([skip](#features))
 
