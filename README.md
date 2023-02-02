@@ -9,7 +9,7 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 > Uh oh! Your tryin to kiss ur hot girlfriend, but her MEAN and EVIL dad is trying to KILL you! He's an ex-rockstar, the only way to get to his heart? The power of music... 
 
 ## Gamer Engine
-**Gamer Engine** is a mod for Friday Night Funkin', including a full engine rework, replays, and more.
+**Gamer Engine** is a mod for Friday Night Funkin Kade Engine', including a engine rework, replays, and more.
 
 Link: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761)**
 
