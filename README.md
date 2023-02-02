@@ -1,5 +1,5 @@
 
-![Gamer Engine logo](GamerEngineLogo.png)
+![Gamer Engine logo](https://raw.githubusercontent.com/CoolGamerTheSpy/Gamer-Enginie/main/assets/preload/images/KadeEngineLogo.png?token=GHSAT0AAAAAAB6IY7THUXODUNPHTGA2NA7QY64AGOQ)
 
 # Friday Night Funkin': Gamer Engine
 ## Friday Night Funkin'
