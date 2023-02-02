@@ -20,7 +20,7 @@ If you're looking for updates or any other one of my projects, you can find thos
 
 # Previews ([skip](#features))
 
-![Tutorial (Hard) on Downscroll](Dead Finished.gif) ![Milf (Hard) on Downscroll](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
+![Tutorial (Hard) on Downscroll](https://raw.githubusercontent.com/CoolGamerTheSpy/Gamer_Engine/main/Dead%20Finished.gif) ![Milf (Hard) on Downscroll](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
 
 # Features
 
