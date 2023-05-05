@@ -9,27 +9,39 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 > Uh oh! Your tryin to kiss ur hot girlfriend, but her MEAN and EVIL dad is trying to KILL you! He's an ex-rockstar, the only way to get to his heart? The power of music... 
 
 ## Gamer Engine
-**Gamer Engine** is a mod for Friday Night Funkin Kade Engine', including a engine rework and more.
+**Gamer Engine** is a **Rework** of Friday Night Funkin' Kade Engine 1.5.3
 
 Link: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761)**
-
-**REMEMBER**: This is a **modification** not the vanilla game.
 
 ## Website ([CoolGamerTheSpy.github.io](https://CoolGamerTheSpy.github.io/))
 If you're looking for updates or any other one of my projects, you can find those on my website.
 
 # Previews ([skip](#features))
 
-![Tutorial (Hard) on Downscroll](https://raw.githubusercontent.com/CoolGamerTheSpy/Gamer_Engine/main/Dead%20Finished.gif) ![Milf (Hard) on Downscroll](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
+![Tutorial (Lap 2)](https://raw.githubusercontent.com/CoolGamerTheSpy/Gamer_Engine/main/Dead%20Finished.gif) 
+![Dad-Battle (Hard) Super Taunt Showcase](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
 
 # Features
 
  - **Pre-made Mechanics**
 	 - Mechanics have been made a fetaure in the charting menu.
+	 ![Pico (Hard) w/ Apponent Health Drain](https://raw.githubusercontent.com/CoolGamerTheSpy/Gamer_Engine/main/Dead%20Finished.gif) 
+	 ![Blammed (Hard) w/ Warning Notes](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
+	 
  - **Gamjolt API** (in beta)
 	 - Login to gamejolt and get tropheis.
- - **Audio offset**
-	 - Big Menu changes.
+	 ![Login Screen](https://raw.githubusercontent.com/CoolGamerTheSpy/Gamer_Engine/main/Dead%20Finished.gif) 
+	 ![Lap 2 (Pizza) w/ Trophy Getting](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
+	 
+ - **Pizza Tower Mode**
+	 - I love pizza tower so I added it to fnf
+	 ![Tutorial (Lap 2)](https://raw.githubusercontent.com/CoolGamerTheSpy/Gamer_Engine/main/Dead%20Finished.gif) 
+	 ![Dad-Battle (Hard) Super Taunt Showcase](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
+	 
+ - **Rework of UI**
+	 - Changed alot of UI.
+	 ![Story Mode Menu](https://raw.githubusercontent.com/CoolGamerTheSpy/Gamer_Engine/main/Dead%20Finished.gif) 
+	 ![Main Menu](https://user-images.githubusercontent.com/15311104/113990845-2c208100-9852-11eb-8e6d-f1c9e8439871.gif)
 
 # Credits
 ### Friday Night Funkin'
@@ -38,11 +50,12 @@ If you're looking for updates or any other one of my projects, you can find thos
  - [Kawai Sprite](https://twitter.com/kawaisprite) - Music
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
-### Gamer Engine
-- [Cool_Gamer The Proggraming Spy](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
-- [AlexStep8](https://github.com/KadeDev/Kade-Engine/graphs/contributors) - Artis of the icon
-
 
 ### Kade Engine
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Creator of Kade Engine
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
+Kade Engnine is the founding stepping stone for mods. Thank you KadeDev! <3
+
+### Gamer Engine
+- [Cool_Gamer The Proggraming Spy](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
+- [AlexStep8](https://github.com/KadeDev/Kade-Engine/graphs/contributors) - Artis of the icon
